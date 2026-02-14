@@ -1,0 +1,6 @@
+__pycache__/
+.vscode/
+*.txt
+*.db
+*.zip
+.DS_store
